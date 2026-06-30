@@ -84,17 +84,6 @@ Passionate about building scalable web applications, solving real-world problems
 
 ---
 
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tejasree-S27&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tejasree-S27&layout=compact&theme=github_dark"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
