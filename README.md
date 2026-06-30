@@ -110,25 +110,6 @@ Passionate about building scalable web applications, solving real-world problems
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejasree-S27&theme=tokyo-night"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tejasree-S27&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🛒 E-Commerce Website | Responsive shopping website using HTML, CSS & JavaScript |
-| 💬 Client Server Chatbot | Interactive chatbot built with JavaScript |
-| 🎓 Magic Academy | TypeScript-based web application |
-| 🌐 Personal Portfolio | Responsive portfolio showcasing my work |
-| 📚 HackerRank Solutions | Java programming & DSA practice |
 
 ---
 
