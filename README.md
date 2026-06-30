@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Saligari Tejasree
 
-<!--
-**Tejasree-S27/Tejasree-S27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech - Artificial Intelligence & Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Java
+- Spring Boot
+- React
+- MySQL
+- REST APIs
+
+🚀 Tech Stack
+
+Java
+Spring Boot
+React
+HTML
+CSS
+JavaScript
+MySQL
+Git
+GitHub
+
+📈 GitHub Stats
+
+(Add GitHub stats here)
+
+📫 Connect with me
+
+LinkedIn:
+Email:
+Portfolio:
