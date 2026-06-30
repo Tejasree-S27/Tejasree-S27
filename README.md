@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Saligari+Tejasree;Java+Full+Stack+Developer;AI+%26+Data+Science+Student;Spring+Boot+%7C+React+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Saligari+Tejasree;AI+%26+Data+Science+Student;Software+Development+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Saligari Tejasree</h1>
 
 <h3 align="center">
-Java Full Stack Developer • AI & Data Science Student • Passionate Problem Solver
+AI & Data Science Student • Aspiring Software Engineer • Passionate Problem Solver
 </h3>
-
-<p align="center">
-Passionate about building scalable web applications, solving real-world problems, and continuously improving my skills in Java Full Stack Development.
-</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/saligari-tejasree-ba36412b9/" target="_blank">
@@ -30,13 +26,13 @@ Passionate about building scalable web applications, solving real-world problems
 
 # 👩‍💻 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 💻 Aspiring Java Full Stack Developer
-- 🌱 Currently learning **Spring Boot**, **React**, **Microservices**
-- 🚀 Building scalable and responsive web applications
-- 📚 Practicing **Data Structures & Algorithms**
-- 🤝 Open to internships and collaborative projects
-- 🎯 Goal: Become a Software Development Engineer (SDE)
+- 🎓 Pursuing a B.Tech in Artificial Intelligence & Data Science
+- 💻 Passionate about software development and problem-solving
+- 🌱 Currently learning Spring Boot, React, and Microservices
+- 🚀 Building responsive and scalable web applications
+- 📚 Strengthening my skills in Data Structures & Algorithms
+- 🤝 Open to internships, collaborations, and open-source contributions
+- 🎯 Aspiring to build impactful software solutions
 
 ---
 
